@@ -43,7 +43,7 @@ const enum IrButton {
   //% block="0"
   Number_0 = 0x98,
   //% block="#"
-  Hash = 0xa7,
+  Hash = 0xb0,
 }
 
 const enum IrButtonAction {
